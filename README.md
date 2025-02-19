@@ -38,7 +38,7 @@ python inference_salmonn.py --cfg-path inference_config.yaml --mode {submission_
 
 | Model                  | Memory Usage | Latency | ASR |
 |------------------------|--------------|---------|-----|
-| Llama-3B              | 9.3GB        | 0.281   |  0.063   |
+| Llama-3B              | 9.1GB        | 0.252   |  0.064   |
 | Compression One (Ours) | 5.87GB       | 0.198   | 0.073   |
 
 
